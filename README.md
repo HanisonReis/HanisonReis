@@ -1,6 +1,4 @@
-
 ### Olá, meu nome é Hânison Reis 🖐🏾🖖🏾.
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dsdevtech@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devtechbrasil-f3f)
 [![YouTube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.youtube.com/@devtechbrasil-f3f)
@@ -8,7 +6,7 @@
 
 ![HanisonReis GitHub stats](https://github-readme-stats.vercel.app/api?username=HanisonReis&show_icons=true&theme=midnight-purple)
 
-## Competências:
+## COMPETÊNCIAS:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="EXCEL" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
@@ -20,3 +18,10 @@
 <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img align="center" alt="POWERSHELL" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 </div>
+
+## DADOS PESSOAIS:
+Tenho 38 anos, sou casado, tenho um filho e sou graduando em Engenharia de Software pela Faculdade Estácio.<br>
+Resido no Recanto das Emas, Brasília-DF, atualmente trabalho no Instituto Nacional do Seguro Social-INSS,<br>
+como servidor terceirizado e atuo na produção de relatórios e paineis de dados, ações de mineração e limpeza de dados e também<br>
+tenho atribuições nas caixas do SEI - Sistema Eletrônico de Informações.<br>
+Tenho como complemento de renda trabalhos na forma autônoma em ações freelancers, tanto no desenvolvimento web quanto da programação de sistemas e automações.
