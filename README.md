@@ -29,4 +29,4 @@ tenho atribuições nas caixas do SEI - Sistema Eletrônico de Informações.<br
 Tenho como complemento de renda trabalhos na forma autônoma em ações freelancers, tanto no desenvolvimento web quanto da programação de sistemas e automações.
 
 ## PROJETOS RECENTES:
--[Pagina Trilhas e Planilhas](https://hanisonreis.github.io/trilhaseplanilhas)
+- [Pagina Trilhas e Planilhas](https://hanisonreis.github.io/trilhaseplanilhas)
