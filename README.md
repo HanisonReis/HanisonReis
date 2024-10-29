@@ -17,6 +17,10 @@
 <img align="center" alt="POWERSHELL" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 </div>
 
+## STATUS:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanisonReis)](https://github.com/HanisonReis/github-readme-stats)
+
+
 ## DADOS PESSOAIS:
 Tenho 38 anos, sou casado, tenho um filho e estou cursando Engenharia de Software pela Faculdade Estácio.<br>
 Resido no Recanto das Emas, Brasília-DF, atualmente trabalho no Instituto Nacional do Seguro Social-INSS,<br>
