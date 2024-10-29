@@ -1,7 +1,6 @@
 ### Olá, meu nome é Hânison Reis 🖐🏾🖖🏾.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dsdevtech@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devtechbrasil-f3f)
-[![YouTube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.youtube.com/@devtechbrasil-f3f)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](6199507-2898)
 
 ![HanisonReis GitHub stats](https://github-readme-stats.vercel.app/api?username=HanisonReis&show_icons=true&theme=midnight-purple)
@@ -25,3 +24,6 @@ Resido no Recanto das Emas, Brasília-DF, atualmente trabalho no Instituto Nacio
 como servidor terceirizado e atuo na produção de relatórios e paineis de dados, ações de mineração e limpeza de dados e também<br>
 tenho atribuições nas caixas do SEI - Sistema Eletrônico de Informações.<br>
 Tenho como complemento de renda trabalhos na forma autônoma em ações freelancers, tanto no desenvolvimento web quanto da programação de sistemas e automações.
+
+## PROJETOS RECENTES:
+-[Botão interativo| CSS e HTML](https://www.youtube.com/watch?v=hk_k87JyWC0)
