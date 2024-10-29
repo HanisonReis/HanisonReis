@@ -18,7 +18,7 @@
 </div>
 
 ## DADOS PESSOAIS:
-Tenho 38 anos, sou casado, tenho um filho e sou graduando em Engenharia de Software pela Faculdade Estácio.<br>
+Tenho 38 anos, sou casado, tenho um filho e estou cursando Engenharia de Software pela Faculdade Estácio.<br>
 Resido no Recanto das Emas, Brasília-DF, atualmente trabalho no Instituto Nacional do Seguro Social-INSS,<br>
 como servidor terceirizado e atuo na produção de relatórios e paineis de dados, ações de mineração e limpeza de dados e também<br>
 tenho atribuições nas caixas do SEI - Sistema Eletrônico de Informações.<br>
