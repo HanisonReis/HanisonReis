@@ -1,7 +1,6 @@
 ### Olá, meu nome é Hânison Reis 🖐🏾🖖🏾.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dsdevtech@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devtechbrasil-f3f)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](6199507-2898)
 
 ![HanisonReis GitHub stats](https://github-readme-stats.vercel.app/api?username=HanisonReis&show_icons=true&theme=midnight-purple)
 
